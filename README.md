@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zin Linnhtet</h1>
 <h3 align="center">A tremendous web developer from Myanmar.</h3>
 
-- 🔭 I’m currently working on **.Net 
+- 🔭 I’m currently working on ASP.Net Core
 
 - 🌱 I’m currently learning **.Net and JavaScript**
 
