@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zin Linnhtet</h1>
 <h3 align="center">A tremendous web developer from Myanmar.</h3>
 
-- 🔭 I’m currently working on ASP.Net Core
+- 🔭 I’m currently working on ASP.Net Core and JavaScript.
 
-- 🌱 I’m currently learning **.Net and JavaScript**
-
-- 💬 Ask me about **.Net and front-end tech stacks**
+- 🌱 I’m currently learning **.Net and JavaScript**,
+- 💬 Ask me about ASP.Net Core and front-end tech stacks**
 
 - 📫 How to reach me **zinlinnhtet.dev@gmail.com**
 
