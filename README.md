@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ASP.Net Core and JavaScript.
 
-- 🌱 I’m currently learning **.Net and JavaScript**,
+- 🌱 I’m currently learning **ASP.Net and JavaScript**,
 - 💬 Ask me about ASP.Net Core and front-end tech stacks**
 
 - 📫 How to reach me **zinlinnhtet.dev@gmail.com**
