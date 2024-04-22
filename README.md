@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinlynhtet&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" /><br/>
+
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinlynhtet&theme=dark" width="26%" align="left" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zinlynhtet&theme=dark" width="26%" align="right" />
