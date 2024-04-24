@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Hi 👋, I'm Zin Linnhtet</h1>
+  <h1>Hi, I'm Zin Linnhtet</h1>
   <img src="https://media1.giphy.com/media/fx7ENuO3BLMt0/giphy.gif" height="150" align="right" />
 </div>
 
