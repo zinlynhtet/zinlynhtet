@@ -7,6 +7,7 @@
   <blockquote>
     <p>🚀 Currently exploring the realms of Blazor and ASP.NET Core, sculpting my expertise in the art of Advanced CSharp. Need a guide to navigate the maze of HTML for NASA-level hacking? Consider it solved!</p>
     <p>📧 Drop me a line at <a href="mailto:zinlinnhtet.dev@gmail.com">zinlinnhtet.dev@gmail.com</a> for an intergalactic chat!</p>
+    <p>⚡You can see a collection here <a href="https://bento.me/zinlinnhtet"> zinlinnhtet </a> for my full profile!</p>
     <p>⚡ Did you know? JavaScript isn't just code; it's a universe waiting to be discovered!</p>
   </blockquote>
 </div>
