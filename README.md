@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram Badge" />
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" alt="LeetCode Badge" />
 </div>
-<br/>
 <hr/>
 
 <div align="center">
