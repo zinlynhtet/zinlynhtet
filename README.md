@@ -12,7 +12,7 @@
   </blockquote>
 </div>
 
-## 🌐 SKills:
+## 🌐 Languages and tools:
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="35" alt="C# Badge" />
@@ -33,10 +33,9 @@
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" alt="LeetCode Badge" />
 </div>
 <br/>
+<hr/>
 
 <div align="center">
-
-  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinlynhtet&theme=dark" width="26%" align="left" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zinlynhtet&theme=dark" width="26%" align="right" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zinlynhtet&theme=dark" width="26%" align="center" title="productive time" />
